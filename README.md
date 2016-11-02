@@ -1,2 +1,4 @@
+
 # Testgit
-Testing the git
+
+ Testgit is a file created to know how git works and  what exacctly git is
